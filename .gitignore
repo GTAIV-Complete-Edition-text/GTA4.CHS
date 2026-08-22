@@ -5,3 +5,4 @@ build/
 CMakeUserPresets.json
 .vs/
 out/
+/VC-LTL
